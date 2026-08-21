@@ -139,146 +139,7 @@ I also work with **Pandas, NumPy, Power Query, DAX, Tableau, Matplotlib, Plotly,
 ---
 
 # 🚀 Featured Data Analytics Projects
-
-## 🛒 01. Online Retail Sales Analysis — Power BI
-
-An interactive **Power BI business intelligence dashboard** built from retail transaction data to understand sales performance, customer behavior, product performance, and geographic trends.
-
-### 📊 Business Questions
-
-* How is revenue performing over time?
-* Which products generate the most revenue?
-* Which customers contribute the most to sales?
-* Which countries and regions perform best?
-* What are the key sales trends?
-* What KPIs should management monitor?
-
-### 🔎 Key Work
-
-* Cleaned and transformed raw retail data
-* Built a structured data model
-* Created calculated measures using DAX
-* Developed executive-level KPIs
-* Analyzed product and customer performance
-* Analyzed geographic and time-based trends
-* Built interactive filters and drill-downs
-
-### 🛠️ Tools
-
-`Power BI` `Power Query` `DAX` `Data Modeling` `Excel`
-
-🔗 **Repository:**
-https://github.com/Nima-vd/online-retail-powerbi-analysis
-
----
-
-## 📈 02. Excel Data Analytics Dashboard
-
-An end-to-end **Excel analytics project** using a dataset containing **26,000+ records**.
-
-The project demonstrates how raw data can be cleaned, transformed, analyzed, and converted into an interactive business dashboard.
-
-### 🔎 Key Work
-
-* Cleaned and prepared raw data
-* Removed duplicate records
-* Created an **Age Group** feature using Excel formulas
-* Built PivotTables
-* Created PivotCharts
-* Added interactive slicers
-* Developed business metrics
-* Designed an executive-friendly dashboard
-
-### 🛠️ Tools
-
-`Microsoft Excel` `Data Cleaning` `PivotTables` `PivotCharts` `Slicers` `Dashboard Design`
-
-🔗 **Repository:**
-https://github.com/Nima-vd/Excel-Data-Analytics-dashboard
-
----
-
-## 💼 03. Data Professional Survey Breakdown — Power BI
-
-An interactive **Power BI dashboard analyzing 630 data professionals worldwide**.
-
-The project explores salary, job roles, programming language preferences, work-life balance, and job satisfaction.
-
-### 📊 Key Analysis
-
-* Average salary by job title
-* Programming language preferences
-* Job role comparisons
-* Work-life balance
-* Salary satisfaction
-* Survey-based demographic analysis
-
-### 🛠️ Tools
-
-`Power BI` `Power Query` `DAX` `Data Visualization`
-
-🔗 **Repository:**
-https://github.com/Nima-vd/Data-Professional-Survey-PowerBI
-
----
-
-## 🇳🇵 04. Nepal Economic Indicators Dashboard
-
-An interactive **Streamlit dashboard** analyzing Nepal's major economic indicators using data from the **World Bank API**.
-
-### 📊 Indicators
-
-* GDP growth
-* GDP per capita
-* Inflation
-* Remittance as a percentage of GDP
-* Historical economic trends
-
-### 🔎 Key Work
-
-* Retrieved data through an API
-* Cleaned and transformed economic data
-* Created interactive visualizations
-* Built filters for exploring historical trends
-* Presented economic indicators through an interactive dashboard
-
-### 🛠️ Tools
-
-`Python` `Pandas` `Plotly` `Streamlit` `World Bank API`
-
-🔗 **Repository:**
-https://github.com/Nima-vd/Nepal-Economic-Dashboard
-
----
-
-## 🌍 05. Nepal Earthquake Risk Analysis
-
-An exploratory **Python data analysis project** examining approximately **25 years of earthquake activity in Nepal**.
-
-### 📊 Key Analysis
-
-* Earthquake magnitude distribution
-* Earthquake depth analysis
-* Yearly earthquake trends
-* Monthly earthquake patterns
-* Magnitude vs. depth relationships
-* Correlation analysis
-* Interactive visualizations
-
-### 🛠️ Tools
-
-`Python` `Pandas` `NumPy` `Matplotlib` `Plotly` `Jupyter Notebook`
-
-🔗 **Repository:**
-https://github.com/Nima-vd/Earthquake_analysis
-
----
-
-# 📌 Additional Project
-
-## 📺 Netflix Review Analytics
-
-An analytics automation project focused on extracting, cleaning, transforming, and analyzing Netflix-related review data.
+<p align="center"> <a href="https://github.com/Nima-vd/online-retail-powerbi-analysis"> <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Nima-vd&repo=online-retail-powerbi-analysis&theme=default" /> </a> <a href="https://github.com/Nima-vd/Excel-Data-Analytics-dashboard"> <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Nima-vd&repo=Excel-Data-Analytics-dashboard&theme=default" /> </a> </p> <p align="center"> <a href="https://github.com/Nima-vd/Earthquake_analysis"> <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Nima-vd&repo=Earthquake_analysis&theme=default" /> </a> <a href="https://github.com/Nima-vd/Data-Professional-Survey-PowerBI"> <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Nima-vd&repo=Data-Professional-Survey-PowerBI&theme=default" /> </a> </p> <p align="center"> <a href="https://github.com/Nima-vd/Nepal-Economic-Dashboard"> <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Nima-vd&repo=Nepal-Economic-Dashboard&theme=default" /> </a> </p>
 
 ### 🔎 Workflow
 
@@ -295,15 +156,6 @@ Power BI Visualization
       ↓
 Automated Reporting
 ```
-
-### 🛠️ Tools
-
-`Python` `Pandas` `Power BI` `ETL` `Automation`
-
-🔗 **Repository:**
-https://github.com/Nima-vd/Netflix_Review_Analytics
-
----
 
 # 🏆 Certifications & Experience
 
@@ -423,31 +275,6 @@ To begin my career as a:
 To grow into a **Senior Data Analyst / Analytics Professional** capable of leading data-driven projects, developing effective BI solutions, and helping organizations make better decisions through data.
 
 ---
-
-# 💡 My Approach to Data
-
-```text
-Ask the Right Question
-        ↓
-Understand the Data
-        ↓
-Clean & Transform
-        ↓
-Analyze
-        ↓
-Visualize
-        ↓
-Find the Insight
-        ↓
-Communicate Clearly
-        ↓
-Support Better Decisions
-```
-
-> **Good analysis isn't just about finding numbers — it's about understanding what those numbers mean for the business.**
-
----
-
 # 🤝 Let's Connect
 
 <p align="center">
