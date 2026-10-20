@@ -27,7 +27,7 @@
 
 # 👨‍💻 About Me
 
-I'm an **Aspiring Data Analyst** with a background in **Computer Science**, focused on using data to solve business problems and support better decision-making.
+I'm an **Aspiring Data/Business Analyst** with a background in **Computer Science**, focused on using data to solve business problems and support better decision-making.
 
 I enjoy working across the complete analytics lifecycle:
 
