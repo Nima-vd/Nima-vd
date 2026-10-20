@@ -4,11 +4,11 @@
 </p>
 
 <p align="center">
-  📍 Kathmandu, Nepal &nbsp; | &nbsp; 🎯 Data Analytics
+  📍 Kathmandu, Nepal &nbsp; | &nbsp; 🎯 Data/Business Analytics
 </p>
 
 <p align="center">
-  <strong>Open to Graduate Data Analyst • Junior Data Analyst • BI Analyst • Reporting Analyst opportunities</strong>
+  <strong>Open to Graduate Data Analyst • Junior Data Analyst • BI Analyst • Business Analyst opportunities</strong>
 </p>
 
 <p align="center">
